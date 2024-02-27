@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FishOutOfWater64
+- 👋 Hi, I’m @FishOutOfWater64!
 - 👀 I’m interested in math, science, and computer science.
-- 🌱 I’m currently learning Manim
+- 🌱 I’m currently learning Manim.
 - 💞️ I’m looking to collaborate on ... (idk yet)
 - 📫 How to reach me ... 
 - 😄 Pronouns: he/him
